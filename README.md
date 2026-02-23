@@ -12,12 +12,10 @@ Customer churn reduces revenue and increases acquisition costs. This project ana
 ## Tools Used
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Power BI:** Data modelling, DAX measures, interactive dashboard  
-- **Excel:** (optional—if used for initial checks/cleaning)
+
 
 ## Dataset
 Customer-level dataset containing demographics, account features, and churn label.
-
-> Note: If you used a public dataset, add the source link here. If not, write “Dataset provided for learning purposes”.
 
 ## Key Analyses
 - Churn rate distribution
